@@ -1,0 +1,20 @@
+frontend/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── ReportCard.jsx
+│   │   └── CoScholasticAreas.jsx
+│   ├── pages/
+│   │   ├── CreateExam.jsx
+│   │   ├── Exams.jsx
+│   │   ├── AllotMarks.jsx
+│   │   ├── GenerateReport.jsx
+│   │   ├── ManageClasses.jsx
+│   │   └── ManageStudents.jsx
+│   ├── App.jsx
+│   ├── index.jsx
+│   └── api.js
+└── package.json
+

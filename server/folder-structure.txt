@@ -1,0 +1,19 @@
+backend/
+├── config/
+│   └── database.js
+├── controllers/
+│   ├── examController.js
+│   ├── studentController.js
+│   └── markController.js
+├── models/
+│   ├── Exam.js
+│   ├── Student.js
+│   └── Mark.js
+├── routes/
+│   ├── exams.js
+│   ├── students.js
+│   └── marks.js
+├── app.js
+├── server.js
+└── package.json
+
